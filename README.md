@@ -1,5 +1,5 @@
 # Pebble-Binary-Watch
-A simple binary watch face for Pebble using Pebble.js that displays the binary time in rows of 1s and 0s instead of the traditional dot interface.
+A simple binary watch face for Pebble using Pebble.js that displays the binary time in rows of 1s and 0s instead of the traditional binary coded decimal dot interface.
 
 ![Example image of the watchface displaying the time 14:37:13](http://i.imgur.com/lW8K2ts.png)
 
