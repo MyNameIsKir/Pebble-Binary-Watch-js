@@ -19,7 +19,10 @@ var getBinaryTime = function(){
   var seconds = date.getSeconds().toString(2);
   var time = [hour, minutes, seconds];
   for(var ti = 0; ti < time.length; ti++){
-    for(var i = 9; i >= time[ti].length; i--){
+    console.log("ti: " + ti);
+    var startingLength = time[ti].length;
+    for(var i = 1; i <= (8 - startingLength); i++){
+      console.log("i: " + i + " max: " + (8 - startingLength));
       time[ti] = "0" + time[ti];
     }
   }
