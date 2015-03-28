@@ -3,9 +3,9 @@ var Vector2 = require('vector2');
 
 var window = new UI.Window();
 var textfield = new UI.Text({
-  position: new Vector2(30, 40),
+  position: new Vector2(28, 35),
   size: new Vector2(144, 168),
-  font: 'gothic-18-bold',
+  font: 'gothic-28-bold',
   text: "00000000\n00000000\n00000000"
 });
 
