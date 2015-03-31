@@ -1,15 +1,7 @@
 # Pebble-Binary-Watch
 A simple binary watch face for Pebble using Pebble.js that displays the binary time in rows of 1s and 0s instead of the traditional binary coded decimal dot interface.
 
-![Example image of the watchface displaying the time 14:37:13](http://i.imgur.com/efcS9Kq.png)
-
-### Installation
-This watchface is not yet released for general use, but will be in the future. However, please feel free to pull down this repo and generate your own PBW file from it.
-
-### Future Features
-- Feature a 12 hour mode in addition to a 24 hour mode
-- Display the date as well as the day of the week
-- Have a temporary display of the battery percentage when the watch face is first opened. Imitating the same feature available in the [BitFace](https://github.com/tgaurnier/BitFace) watch face.
+![Example image of the watchface displaying the time 14:37:13](http://i.imgur.com/efcS9Kq.png).
 
 ### License
 Copyright (c) 2015 Kirstin "Kir" Jarchow
